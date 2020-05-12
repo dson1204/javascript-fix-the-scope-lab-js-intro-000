@@ -2,7 +2,6 @@ var animal = 'dog'
 
 function myAnimal() {
   // You should not need to modify this function
-  var animal = 'cat'
   return animal
 }
 
